@@ -12,5 +12,4 @@
 * Clevo 藍天電腦 公版模具
 
 ## CARD!
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlicdt&hide=html)
 ![acidec's github stats](https://github-readme-stats.vercel.app/api?username=zlicdt&show_icons=true&count_private=true&line_height=40)
