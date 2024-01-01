@@ -1,16 +1,14 @@
-### Hi there 👋
+# ヾ(゜∀゜)ノ♪
+## 这是什么？
 
-<!--
-**zlicdt/zlicdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Email: xkicdt1@gmail.com (可能不能及时回复)
+* Telegram: [@zlicdt](https://t.me/zlicdt)
 
-Here are some ideas to get you started:
+## 喜好
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Arch Linux
+* Electron
+* Clevo 藍天電腦 公版模具
+
+## CARD!
+[![Github Data](https://github-readme-stats.vercel.app/api?username=zlicdt)]()
