@@ -8,5 +8,6 @@
 ## Devices
 * Apple MacBook Pro (Late 2023)
 * Lenovo Legion R9000P 2023
+* Apple Mac Mini (2024)
 
 ![zlicdt's github stats](https://github-readme-stats.vercel.app/api?username=zlicdt&show_icons=true&count_private=true&line_height=40)
